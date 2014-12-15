@@ -1,0 +1,3 @@
+<jboss-web>
+    <security-domain>java:/jaas/MyRealm</security-domain>
+</jboss-web>
